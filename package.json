@@ -26,7 +26,7 @@
     "typeit-react": "^2.7.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Manishmeena10038.github.io/Malvibol_Frontend",
+  "homepage": "https://Manishmeena10038.github.io/MalviBol/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
