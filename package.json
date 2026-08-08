@@ -23,7 +23,6 @@
     "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.0",
     "typeit": "^8.8.3",
-    "typeit-react": "^2.7.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -49,5 +48,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0"
   }
 }
